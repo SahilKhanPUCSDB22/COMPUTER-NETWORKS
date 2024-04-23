@@ -1,0 +1,2 @@
+currently i have written programs for ear,mouth and brain that recieve,send and and reead messages from one system to other.
+i am yet tom combine the with fork and execv system calls.
